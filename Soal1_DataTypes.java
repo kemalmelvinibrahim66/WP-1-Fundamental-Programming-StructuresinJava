@@ -53,5 +53,6 @@ public class Soal1_DataTypes {
             }
             System.out.println(" ");
         }
+        input.close();
     }
 }
