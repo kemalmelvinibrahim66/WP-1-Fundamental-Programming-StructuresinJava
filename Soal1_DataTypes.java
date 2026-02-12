@@ -1,7 +1,7 @@
 import java.util.Scanner; //import utility untuk input
 import java.util.ArrayList; //import utility untuk membuat arraylist
 
-public class DataTypes {
+public class Soal1_DataTypes {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); //Membuat scanner untuk input
